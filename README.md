@@ -18,6 +18,10 @@ Along the way, I build and maintain automation frameworks (Cypress, Selenium, XC
 ## Projects and where to find them:
 Below is a selection of automation projects demonstrating framework design, CI/CD integration, and reporting practices used in production QA work.
 
+### AI-Assisted Test Case Generation:
+A practical guide to structured AI prompting for QA test design. 
+* Can be found [here](https://github.com/liliyapetillo/ai-assisted-test-case-generation-using-structured-prompting)
+
 ### Playwright Typescript:
 Page Object Model UI automation built with Playwright and TypeScript, including API-level validation, containerized with Docker and integrated with GitHub Actions CI/CD and Allure reporting.
 * Can be found [here](https://github.com/liliyapetillo/Playwright-Demo)
